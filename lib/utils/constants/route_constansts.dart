@@ -1,0 +1,3 @@
+const String ROUTE_LOGIN = "ROUTE_LOGIN";
+const String ROUTE_REGISTER = "ROUTE_REGISTER";
+
